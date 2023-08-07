@@ -1,2 +1,2 @@
 # WorkoutBuddy
-Web application using MERN Stack
+Web application showing how to create, update and delete workout using MERN Stack
